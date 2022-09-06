@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.28fbb9d0.css",
-    "main.js": "/portfolio/static/js/main.d7ed367e.js",
+    "main.js": "/portfolio/static/js/main.4ac48275.js",
     "static/media/coding.png": "/portfolio/static/media/coding.4ab2938d2ab0e18c6521.png",
     "static/media/safeinvestlogo.png": "/portfolio/static/media/safeinvestlogo.9863954e083ac337834a.png",
     "static/media/houselogo.png": "/portfolio/static/media/houselogo.5797a39569afe109486d.png",
@@ -16,10 +16,10 @@
     "static/media/githubfinder.jpg": "/portfolio/static/media/githubfinder.6b0b7a280a3e3f60bbac.jpg",
     "index.html": "/portfolio/index.html",
     "main.28fbb9d0.css.map": "/portfolio/static/css/main.28fbb9d0.css.map",
-    "main.d7ed367e.js.map": "/portfolio/static/js/main.d7ed367e.js.map"
+    "main.4ac48275.js.map": "/portfolio/static/js/main.4ac48275.js.map"
   },
   "entrypoints": [
     "static/css/main.28fbb9d0.css",
-    "static/js/main.d7ed367e.js"
+    "static/js/main.4ac48275.js"
   ]
 }
