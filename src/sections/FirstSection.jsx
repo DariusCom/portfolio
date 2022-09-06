@@ -66,7 +66,7 @@ const FirstSection = () => {
               />
             </a>
             <a
-              href="https://www.linkedin.com/in/comanescu-darius-ab53331a3/"
+              href="https://www.linkedin.com/in/comanescu-darius/"
               className="hover:scale-105 transition-all"
               target="_blank"
               rel="noreferrer noopener"

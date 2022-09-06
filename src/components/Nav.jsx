@@ -10,7 +10,7 @@ const Nav = ({ setShowModal }) => {
           initial={{ y: -10, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.2, delay: 0.1 }}
-          href="/#technologies"
+          href="/portfolio/#technologies"
           className="mr-8 cursor-pointer link link-underline link-underline-black laptop:mr-10"
         >
           Technologies
@@ -19,7 +19,7 @@ const Nav = ({ setShowModal }) => {
           initial={{ y: -10, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.2, delay: 0.2 }}
-          href="/#projects"
+          href="/portfolio/#projects"
           className="mr-8 cursor-pointer link link-underline link-underline-black laptop:mr-10"
         >
           Projects
@@ -28,7 +28,7 @@ const Nav = ({ setShowModal }) => {
           initial={{ y: -10, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.2, delay: 0.3 }}
-          href="/#algorithms"
+          href="/portfolio/#algorithms"
           className="mr-8 cursor-pointer link link-underline link-underline-black laptop:mr-10"
         >
           Algorithms
@@ -37,7 +37,7 @@ const Nav = ({ setShowModal }) => {
           initial={{ y: -10, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.2, delay: 0.4 }}
-          href="/#contact"
+          href="/portfolio/#contact"
           className="mr-8 cursor-pointer link link-underline link-underline-black laptop:mr-10"
         >
           Contact

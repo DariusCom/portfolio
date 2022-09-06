@@ -29,7 +29,7 @@ const Contact = () => {
           <img className="w-10 h-10" src={githubImage} alt="Github" />
         </a>
         <a
-          href="https://www.linkedin.com/in/comanescu-darius-ab53331a3/"
+          href="https://www.linkedin.com/in/comanescu-darius/"
           className="py-2 px-2 rounded-full hover:bg-gray-400 hover:scale-105 transition-all"
           target="_blank"
           rel="noreferrer noopener"
