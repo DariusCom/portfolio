@@ -1,23 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import FirstSection from "./sections/FirstSection";
+import Technologies from "./sections/Technologies";
+import Projects from "./sections/Projects";
+import Algorithms from "./sections/Algorithms";
+import Contact from "./sections/Contact";
+import Nav from "./components/Nav";
+import Modal from "./components/Modal";
+import { useState } from "react";
 
 function App() {
+  const [showModal, setShowModal] = useState(false);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="bg-stone-800">
+      <Modal showModal={showModal} setShowModal={setShowModal} />
+      <Nav setShowModal={setShowModal} />
+      <FirstSection />
+      <Technologies />
+      <Projects />
+      <Algorithms />
+      <Contact />
     </div>
   );
 }
