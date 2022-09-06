@@ -54,7 +54,7 @@ const FirstSection = () => {
           </div>
           <div className="flex justify-center tablet:hidden">
             <a
-              href="https://github.com/Sinnex96"
+              href="https://github.com/DariusCom"
               className="mr-10 hover:scale-105 transition-all tablet:mr-0"
               target="_blank"
               rel="noreferrer noopener"

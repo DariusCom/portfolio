@@ -21,7 +21,7 @@ const Contact = () => {
           <FontAwesomeIcon className="w-10 h-10" icon={faEnvelope} />
         </a>
         <a
-          href="https://github.com/Sinnex96"
+          href="https://github.com/DariusCom"
           className="py-2 px-2 mx-6 rounded-full hover:bg-gray-400 hover:scale-105 transition-all"
           target="_blank"
           rel="noreferrer noopener"
