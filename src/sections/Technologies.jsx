@@ -25,9 +25,7 @@ const Technologies = () => {
           <h6 className="text-2xl text-yellow-600 laptop:text-xl">
             Languages I speak:
           </h6>
-          <p className="text-xl laptop:text-lg">
-            HTML, CSS, Javascript, Python, Git
-          </p>
+          <p className="text-xl laptop:text-lg">HTML, CSS, Javascript, Git</p>
         </div>
         <div className="flex flex-col">
           <h6 className="text-2xl text-yellow-600 laptop:text-xl">
