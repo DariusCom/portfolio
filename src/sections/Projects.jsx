@@ -17,7 +17,7 @@ const Projects = () => {
           </div>
           <div className="absolute flex flex-col justify-center items-center left-0 top-0 w-full h-full bg-black text-white bg-opacity-40 opacity-0 hover:opacity-100 transition-all">
             <a
-              href="https://safeinvestapp.herokuapp.com/"
+              href="https://safeinvest.onrender.com/"
               target="_blank"
               rel="noreferrer"
               className="bg-blue-500 rounded-full text-xl h-[150px] w-[150px] flex items-center justify-center lg:h-[125px] lg:w-[125px] lg:text-base md:h-[100px] md:w-[100px]"
